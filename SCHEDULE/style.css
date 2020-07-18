@@ -1,0 +1,106 @@
+﻿* {
+    margin:0;
+    padding:0;
+    font-family: Century Gothic;
+    color: whitesmoke;
+}
+
+
+header {
+    background-image: url(../Images/24.jpg);
+    height:350px;
+    background-size: cover;
+    background-position: center;
+}
+
+
+ul {
+    float:right;
+    list-style-type: none;
+    margin-top: 30px;
+    }
+
+ul li {
+        display: inline-block;
+    }
+
+ul li a{
+        text-decoration: none;
+        color: #fff;
+        padding: 5px 20px;
+        border: 0px;
+        transition: 0.6s ease;
+        font-size:25px;
+        font-family:'Copperplate Gothic';
+    }
+
+ul li.active a {
+            background-color: #fff;
+         color: #000;
+        }
+
+ul li a:hover{
+         background-color: #fff;
+         color: #000;
+     }
+
+body{
+    background-color: lightgray;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: repeat;
+    background-position: center;
+}
+
+.main{
+    width: 100%;
+    height:15%;
+    background-color:transparent ;
+    padding-top:20px;
+    padding-left:8px;
+}
+
+
+.title{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.title h1{
+    color: #fff;
+    font-size: 70px;
+    font-family: Algerian;
+}
+
+.main_table{
+         padding:0px;
+}
+
+table {
+    color: black;
+    padding: 20px;
+}
+
+td p{
+    color: black;
+   font-size:20px;
+    font-family: 'Bookman Old Style';
+    padding:0px 15px;
+}
+ td h1,h2{
+    color: black;
+    font-size:30px;
+     font-family: 'Bookman Old Style';
+     padding:0px 15px;
+}
+.main_table tr:nth-child(even){
+    background-color: white;
+}
+
+.section{
+    background-color:black;
+    width: 100%;
+    height:70%;
+   }

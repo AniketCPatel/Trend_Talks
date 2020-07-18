@@ -1,0 +1,56 @@
+﻿* {
+    margin:0;
+    padding:0;
+    font-family: 'Bookman Old Style';
+}
+body {
+    background-image: url(../Images/reg3.jpg);
+    background-repeat: repeat;
+    background-size: cover;
+    align-content: center;
+}
+
+.container{
+    
+    position: absolute;
+    width:auto;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%,-50%);  
+}
+
+
+.container h4{
+    font-family: 'Arial Rounded MT';
+}
+
+table{
+    border: 0px;
+}
+
+th{
+    text-align:left;
+}
+
+input[type=text]{
+    padding: 10px;
+    font-family: 'Arial';
+    font-weight: 300;
+    width: 300px;
+    height: 30px;
+    margin-bottom: 3%;
+    border: 0px;
+    background-color: transparent;
+    border-bottom: 2px solid #4b4040;
+}
+
+.btn{
+   position: inherit;
+    width: 60%;
+    height: 40px;
+    margin-bottom: 20vh;
+    background-color: hotpink;
+    color:black;
+    font-size: 20px;
+    border: 2px solid #000;
+}

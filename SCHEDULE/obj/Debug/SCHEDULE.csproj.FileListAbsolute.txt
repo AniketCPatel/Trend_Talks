@@ -1,0 +1,6 @@
+c:\users\hp\documents\visual studio 2013\Projects\SCHEDULE\SCHEDULE\bin\SCHEDULE.dll.config
+c:\users\hp\documents\visual studio 2013\Projects\SCHEDULE\SCHEDULE\bin\SCHEDULE.dll
+c:\users\hp\documents\visual studio 2013\Projects\SCHEDULE\SCHEDULE\bin\SCHEDULE.pdb
+c:\users\hp\documents\visual studio 2013\Projects\SCHEDULE\SCHEDULE\obj\Debug\SCHEDULE.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2013\Projects\SCHEDULE\SCHEDULE\obj\Debug\SCHEDULE.dll
+c:\users\hp\documents\visual studio 2013\Projects\SCHEDULE\SCHEDULE\obj\Debug\SCHEDULE.pdb
